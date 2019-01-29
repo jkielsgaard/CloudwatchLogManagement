@@ -1,0 +1,44 @@
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\CloudwatchLogManagement.exe.config
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\CloudwatchLogManagement.exe
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\CloudwatchLogManagement.pdb
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\AWSSDK.CloudWatchLogs.dll
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\AWSSDK.Core.dll
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\AWSSDK.CloudWatchLogs.pdb
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\AWSSDK.CloudWatchLogs.xml
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\AWSSDK.Core.pdb
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\AWSSDK.Core.xml
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\MainWindow.g.cs
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\App.g.cs
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement_MarkupCompile.cache
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement_MarkupCompile.lref
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\MainWindow.baml
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement.g.resources
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement.Properties.Resources.resources
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement.csproj.GenerateResource.Cache
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement.exe
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement.pdb
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement.csprojResolveAssemblyReference.cache
+C:\Users\kiels00j\Source\Repos\CloudwatchLogManagement\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement_Content.g.cs
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\CloudwatchLogManagement.exe.config
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\CloudwatchLogManagement.exe
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\CloudwatchLogManagement.pdb
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\AWSSDK.CloudWatchLogs.dll
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\AWSSDK.Core.dll
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\AWSSDK.CloudWatchLogs.pdb
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\AWSSDK.CloudWatchLogs.xml
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\bin\Debug\AWSSDK.Core.xml
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement.csprojAssemblyReference.cache
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\MainWindow.g.cs
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\App.g.cs
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement_Content.g.cs
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement_MarkupCompile.cache
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement_MarkupCompile.lref
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\MainWindow.baml
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement.g.resources
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement.Properties.Resources.resources
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement.csproj.GenerateResource.cache
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement.csproj.CoreCompileInputs.cache
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement.csproj.CopyComplete
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement.exe
+C:\Users\Jesper Kielsgaard\Desktop\CloudwatchLogManagement\CloudwatchLogManagement\obj\Debug\CloudwatchLogManagement.pdb
